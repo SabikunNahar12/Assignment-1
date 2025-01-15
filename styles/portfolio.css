@@ -1,0 +1,262 @@
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  /*shared styles*/
+  
+ 
+  html, body{
+background-color:#F1F1F3;
+ justify-content: center;
+ align-items: self-start,self-end;
+}
+.section-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+.common-style{
+    color:#0E0E0E;
+}
+.f1-bg{
+    background-color: ;
+}
+
+.pillar{
+    box-shadow: 0px 4px 25px 0px #000000;
+    
+    border-radius: 12px;
+    width:650px;
+    height: 350px;
+    
+
+}
+.pillar-container{
+    display:flex;
+    gap: 24px;
+    font-weight: 400px;
+
+    border-radius: 16 px;
+    background-color: #FFFFFF;
+    margin: 45px 0px 12px 79px;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    
+
+}
+
+.pillar img {
+
+width: 49px;
+height: 53px;
+}
+.pillar-title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+  
+/*nav styles*/
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:24px 160px;
+}
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+}
+nav ul li{
+    list-style: none;}
+    /*banner style*/
+   
+  .p1{
+    font-weight: bold;
+    font-size: 56px;
+  }
+    .banner{
+
+display: flex;
+align-items: center;
+justify-content:space-around;
+margin:80px 100px;
+background-color: #C6E4D6;
+justify-items: 64px;
+padding: 100px;
+border-radius:24 px;
+    }
+    #content-head{
+        font-size: 56;
+        font-style: normal;
+        font-weight: bold;
+    }
+    .banner-content{
+        margin: 45px 0px 12px 79px;
+    }
+    .btn{
+        color:#006A50;
+        margin: 15px 30px;
+        font-weight: 600px;
+        height: 52px;
+        width: 116px;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .content-title1{
+        font-weight: 500px;
+    
+        font-size: 24px;
+        line-height: auto;
+        letter-spacing: 0%;
+        border-radius: 0%;
+        color:#0E0E0E ;
+        filter:brightness(50%);
+      
+    }
+    
+    
+    .btn-1{
+
+height: 56px;
+width: 270px;
+font-weight: 600px;
+font-size: 16px;
+color: #FFFFFF;}
+.btn-bg{
+    background-color: #006A50;
+}
+.bg-1{
+   background-color: #5490F5;
+}
+.bg-2{
+    background-color: #09A15C;
+}
+.bg-3{
+    background-color: #FFC239;
+}
+/*future-vision*/
+
+
+div.future-elements{
+    display: flex;
+    justify-content:space-around;
+    gap :24px;
+    
+}
+
+.future{
+
+    margin: 24px 0px;
+    padding: 32px;
+    box-shadow: 0px 4px 25px 0px #000000;
+width: 750px;
+height: 450px;
+border-radius: 16px;
+
+}
+
+.card-bg1{
+ background-color:#5490F5;
+}
+.card-bg2{
+   background-color: #C6E4D6; 
+}
+.card-bg-3{
+    background-color:#F7EBCF ;
+}
+.future-title{
+    font-weight: bold;
+    font-size: 20px;
+}
+.future-description{
+    font-weight: 600px;
+    font-size: 16px;
+}
+/*information section style*/
+.information{
+    background-color:#FFFFFF;
+    padding: 48px 24px;
+    border-radius: 16px;
+
+    
+}
+.info-title{
+    font-weight:600;
+    font-size: 20px;
+    
+}
+.info-des{
+    font-weight: 400;
+    font-size: 16px;
+}
+/*recent news*/
+.recent-news-tittle{
+    font-weight: bold;
+    font-size: 40px;
+}
+.news-tittle-2{
+    font-weight: bold;
+    font-size: 32px;
+
+}
+.recent-news-1{
+    display: flex;
+    gap: 32px;
+}
+    .recent-news-2{
+        padding: 48px;
+        border-radius: 24px;
+        background-color:#FFFFFF;
+
+    }
+    img{
+         border-radius: 24px;
+    }
+/*footer style */
+.bg-color{
+    background-color:#FFFFFF;
+}
+.bg-color-1{
+    background-color: #C6E4D6;
+}
+.title-footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.f-des{
+    text-align: center;
+
+}
+  .p2{
+    padding:40px;
+    width: 240px;
+    height: 128px;
+    font-weight: bold;
+    font-size: 40px;
+    border-radius: 16px;
+
+    
+
+}
+.footer-container{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+form textarea{
+    justify-content: center;
+    align-items: center;
+
+    width:1032px ;
+    height: 64px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    
+
+}
